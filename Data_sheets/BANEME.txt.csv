@@ -1,0 +1,15 @@
+Account,Account State,Account Usage State,Roles
+oss_pm,UNLOCKED,ACTIVE,SystemAdministrator
+oss_pm,UNLOCKED,ACTIVE,vEMeAdmin
+readonly,LOCKED,DORMANT,SystemReadOnly
+readonly,LOCKED,DORMANT,vEME_RO
+admin,LOCKED,DORMANT,SystemAdministrator
+admin,LOCKED,DORMANT,Self
+admin,LOCKED,DORMANT,LocalAuthenticationAdministrator
+admin,LOCKED,DORMANT,SystemSecurityAdministrator
+admin,LOCKED,DORMANT,SystemTroubleshooter
+admin,LOCKED,DORMANT,CDROperator
+admin,LOCKED,DORMANT,AlarmOperator
+admin,LOCKED,DORMANT,PMOperator
+admin,LOCKED,DORMANT,vEMeAdmin
+admin,LOCKED,DORMANT,SystemReadOnly

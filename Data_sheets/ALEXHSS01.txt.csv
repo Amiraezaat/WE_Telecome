@@ -1,0 +1,7 @@
+Account,Account State,Account Usage State,Roles
+debug,LOCKED,DORMANT,EricssonSupport
+debug,LOCKED,DORMANT,SystemAdministrator
+debug,LOCKED,DORMANT,SystemSecurityAdministrator
+debug,LOCKED,DORMANT,LocalAuthenticationAdministrator
+debug,LOCKED,DORMANT,hssadministrator
+Optimization,LOCKED,DORMANT,SystemReadOnly

@@ -1,0 +1,16 @@
+Account,Account State,Account Usage State,Roles
+oss_pm,UNLOCKED,ACTIVE,vEMeAdmin
+oss_pm,UNLOCKED,ACTIVE,SystemAdministrator
+test,UNLOCKED,ACTIVE,SystemTroubleshooter
+readonly,UNLOCKED,ACTIVE,SystemReadOnly
+readonly,UNLOCKED,ACTIVE,vEME_RO
+admin,UNLOCKED,ACTIVE,SystemAdministrator
+admin,UNLOCKED,ACTIVE,Self
+admin,UNLOCKED,ACTIVE,LocalAuthenticationAdministrator
+admin,UNLOCKED,ACTIVE,SystemSecurityAdministrator
+admin,UNLOCKED,ACTIVE,SystemTroubleshooter
+admin,UNLOCKED,ACTIVE,CDROperator
+admin,UNLOCKED,ACTIVE,AlarmOperator
+admin,UNLOCKED,ACTIVE,PMOperator
+admin,UNLOCKED,ACTIVE,vEMeAdmin
+admin,UNLOCKED,ACTIVE,SystemReadOnly
